@@ -144,5 +144,6 @@ This project sets a strong foundation for **future enhancements** such as real-t
 ---
 
 Application Link
-[link Application](https://scm-sales-prediction.streamlit.app/)
+
+Click Here [link Application](https://scm-sales-prediction.streamlit.app/)
 
