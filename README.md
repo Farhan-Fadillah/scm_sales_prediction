@@ -125,6 +125,24 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
+---
+
+## Project Summary
+
+This project demonstrates how machine learning can be effectively applied to **sales prediction within supply chain management**. By leveraging historical data and domain-specific features such as price, promotions, stock levels, and temporal patterns, the app empowers businesses to make data-driven decisions that improve operational efficiency and profitability.
+
+With a user-friendly interface powered by Streamlit, it offers both **real-time manual predictions** and **batch processing via CSV uploads**, making it accessible to business users, analysts, and technical teams alike.
+
+### ✅ Key Outcomes:
+- 📈 Improved sales forecasting accuracy
+- 📦 Better inventory planning and demand alignment
+- 💰 Informed pricing and promotional strategies
+- 🔍 Actionable insights through interactive dashboards and performance metrics
+
+This project sets a strong foundation for **future enhancements** such as real-time API deployment, time-series modeling, and integration with enterprise ERP or SCM platforms. It bridges the gap between data science and business impact — turning raw data into reliable, interpretable forecasts.
+
+---
+
 Application Link
 [link Application](https://scm-sales-prediction.streamlit.app/)
 
