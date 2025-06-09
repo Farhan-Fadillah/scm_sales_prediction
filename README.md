@@ -35,13 +35,21 @@ This project aims to build a machine learning-based sales prediction model to he
 
 ### Business Workflow
 [Raw Supply Chain Data] 
+
       ↓
+      
 [Feature Extraction: Date, Price, Stock, etc.]
+
       ↓
+      
 [Sales Prediction via Trained ML Model]
+
       ↓
+      
 [Insights: Store/Product Demand Forecasting]
+
       ↓
+      
 [Business Decisions: Stocking, Promotions, Logistics]
 
 
