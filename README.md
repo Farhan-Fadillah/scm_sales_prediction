@@ -34,24 +34,27 @@ This project aims to build a machine learning-based sales prediction model to he
 ## 🔄 Workflow
 
 ### Business Workflow
-[Raw Supply Chain Data] 
 
-      ↓
-      
-[Feature Extraction: Date, Price, Stock, etc.]
+1. **Raw Data Input**  
+   Historical data containing product, store, price, promotion, stock level, and sales.
 
-      ↓
-      
-[Sales Prediction via Trained ML Model]
+2. **Feature Extraction**  
+   The system transforms raw fields — extracting temporal info (month/day), encoding categorical data, and scaling numerical values.
 
-      ↓
-      
-[Insights: Store/Product Demand Forecasting]
+3. **ML Prediction**  
+   A trained Random Forest Regression model forecasts expected sales volume per product/store.
 
-      ↓
-      
-[Business Decisions: Stocking, Promotions, Logistics]
+4. **Insight Generation**  
+   The app aggregates and visualizes sales forecasts to reveal actionable patterns and trends.
 
+5. **Business Decisions**  
+   Teams use these insights to optimize:
+   - Inventory procurement  
+   - Stock distribution  
+   - Promotional planning  
+   - Pricing strategies
+
+---
 
 ### Technical Workflow
 1. Read CSV data and process date columns.
