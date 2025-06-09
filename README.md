@@ -8,6 +8,7 @@ Why This Project Matters:
 ⚙️ Demand-Supply Mismatch leads to poor customer satisfaction.
 💰 Promotion Planning & Pricing Strategy can be guided by accurate sales predictions.
 🎯 Data-Driven Decisions lead to leaner operations and better forecasting.
+
 This ML-powered sales prediction tool empowers business stakeholders with insights to better forecast store-level and product-level demand, enabling smarter procurement and logistics planning.
 
 ---
