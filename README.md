@@ -4,10 +4,10 @@ Business Problem:
 In supply chain management (SCM), accurate sales forecasting is critical for optimizing stock levels, reducing excess inventory, and minimizing stockouts. Traditional approaches often rely on historical trends or manual estimates, which are not adaptive to real-time market dynamics such as promotions, competitor pricing, and seasonal variations.
 
 Why This Project Matters:
-📉 Overstock or Understock can lead to loss in revenue or increased holding costs.
-⚙️ Demand-Supply Mismatch leads to poor customer satisfaction.
-💰 Promotion Planning & Pricing Strategy can be guided by accurate sales predictions.
-🎯 Data-Driven Decisions lead to leaner operations and better forecasting.
+- 📉 Overstock or Understock can lead to loss in revenue or increased holding costs.
+- ⚙️ Demand-Supply Mismatch leads to poor customer satisfaction.
+- 💰 Promotion Planning & Pricing Strategy can be guided by accurate sales predictions.
+- 🎯 Data-Driven Decisions lead to leaner operations and better forecasting.
 
 This ML-powered sales prediction tool empowers business stakeholders with insights to better forecast store-level and product-level demand, enabling smarter procurement and logistics planning.
 
