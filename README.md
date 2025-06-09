@@ -125,4 +125,6 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
+Application Link
+![link Application](https://scm-sales-prediction.streamlit.app/)
 
