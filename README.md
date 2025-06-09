@@ -125,6 +125,8 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ## 🧩 5. Streamlit App Features
 
+![app](https://github.com/user-attachments/assets/e5a6f41a-2f6f-41f8-8e1a-d977dfea89f5)
+
 | Feature               | Description                                                              |
 |-----------------------|--------------------------------------------------------------------------|
 | 📤 File Uploader       | Upload a CSV dataset for batch predictions                              |
@@ -137,7 +139,6 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
----
 
 ## Project Summary
 
