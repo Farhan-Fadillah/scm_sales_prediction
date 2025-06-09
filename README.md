@@ -127,6 +127,11 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ![app](https://github.com/user-attachments/assets/e5a6f41a-2f6f-41f8-8e1a-d977dfea89f5)
 
+![result 1](https://github.com/user-attachments/assets/b1300995-6f44-400f-89ad-b0528779d730)
+
+![result 2](https://github.com/user-attachments/assets/0b3efe58-e62c-4394-9adc-ff333fbe260d)
+
+
 | Feature               | Description                                                              |
 |-----------------------|--------------------------------------------------------------------------|
 | 📤 File Uploader       | Upload a CSV dataset for batch predictions                              |
