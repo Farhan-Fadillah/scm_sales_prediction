@@ -1,6 +1,7 @@
 # 📈 Sales Prediction Project for Supply Chain Management (SCM) Optimization
 
 Business Problem:
+
 In supply chain management (SCM), accurate sales forecasting is critical for optimizing stock levels, reducing excess inventory, and minimizing stockouts. Traditional approaches often rely on historical trends or manual estimates, which are not adaptive to real-time market dynamics such as promotions, competitor pricing, and seasonal variations.
 
 Why This Project Matters:
