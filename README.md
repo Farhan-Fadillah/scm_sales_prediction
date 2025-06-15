@@ -1,26 +1,28 @@
-# 📈 Sales Prediction Project for Supply Chain Management (SCM) Optimization
+# Sales Prediction Project for Supply Chain Management (SCM) Optimization
 
 Business Problem:
 
 In supply chain management (SCM), accurate sales forecasting is critical for optimizing stock levels, reducing excess inventory, and minimizing stockouts. Traditional approaches often rely on historical trends or manual estimates, which are not adaptive to real-time market dynamics such as promotions, competitor pricing, and seasonal variations.
 
+![image](https://github.com/user-attachments/assets/28f7815f-1205-44f9-b92e-7a5c607c132d)
+
 Why This Project Matters:
-- 📉 Overstock or Understock can lead to loss in revenue or increased holding costs.
-- ⚙️ Demand-Supply Mismatch leads to poor customer satisfaction.
-- 💰 Promotion Planning & Pricing Strategy can be guided by accurate sales predictions.
-- 🎯 Data-Driven Decisions lead to leaner operations and better forecasting.
+- Overstock or Understock can lead to loss in revenue or increased holding costs.
+- Demand-Supply Mismatch leads to poor customer satisfaction.
+- Promotion Planning & Pricing Strategy can be guided by accurate sales predictions.
+- Data-Driven Decisions lead to leaner operations and better forecasting.
 
 This ML-powered sales prediction tool empowers business stakeholders with insights to better forecast store-level and product-level demand, enabling smarter procurement and logistics planning.
 
 ---
 
-## 🏷️ Project Description
+## Project Description
 
 This project aims to build a machine learning-based sales prediction model to help optimize supply chain management. With accurate sales forecasting, companies can better manage inventory, reduce costs, and improve customer satisfaction through precise and efficient planning.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - Sales prediction based on historical data and related factors.
 - Automated data preprocessing including date feature extraction, missing value imputation, and categorical data encoding.
@@ -31,7 +33,7 @@ This project aims to build a machine learning-based sales prediction model to he
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 ### Business Workflow
 
@@ -67,7 +69,7 @@ This project aims to build a machine learning-based sales prediction model to he
 
 ---
 
-## 🧠 Machine Learning Model Explanation
+## Machine Learning Model Explanation
 
 The model used is a **Random Forest Regressor**, which is an ensemble of decision trees.
 
@@ -84,7 +86,7 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
-## 🛠️ How to Use the Streamlit Application
+## How to Use the Streamlit Application
 
 ### Data Upload
 - Upload a CSV file containing these columns: Store, Product, Price, Promotion, Stock_Level, Competitor_Price, Date, and Sales.
@@ -100,7 +102,7 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
-## 📋 Data Structure
+## Data Structure
 
 | Column            | Data Type   | Description                          |
 |-------------------|-------------|------------------------------------|
@@ -115,7 +117,7 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 | Metric   | Description                                         |
 |----------|---------------------------------------------------|
@@ -123,7 +125,7 @@ The model used is a **Random Forest Regressor**, which is an ensemble of decisio
 
 ---
 
-## 🧩 5. Streamlit App Features
+## 5. Streamlit App Features
 
 ![app](https://github.com/user-attachments/assets/e5a6f41a-2f6f-41f8-8e1a-d977dfea89f5)
 
@@ -151,7 +153,7 @@ This project demonstrates how machine learning can be effectively applied to **s
 
 With a user-friendly interface powered by Streamlit, it offers both **real-time manual predictions** and **batch processing via CSV uploads**, making it accessible to business users, analysts, and technical teams alike.
 
-### ✅ Key Outcomes:
+### Key Outcomes:
 - 📈 Improved sales forecasting accuracy
 - 📦 Better inventory planning and demand alignment
 - 💰 Informed pricing and promotional strategies
